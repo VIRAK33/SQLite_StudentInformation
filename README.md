@@ -1,5 +1,5 @@
 # SQLite_StudentInformation
-## This example is how to create database and table with SQLite and insert value to the table.
+## This example is how to create database create table  and insert value to the table with SQLite.
 
 ![](https://raw.githubusercontent.com/VIRAK33/SQLite_StudentInformation/master/img/main.png)
 ---
