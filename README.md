@@ -8,3 +8,9 @@
 ![](https://raw.githubusercontent.com/VIRAK33/SQLite_StudentInformation/master/img/db2.png)
 ---
 ![](https://raw.githubusercontent.com/VIRAK33/SQLite_StudentInformation/master/img/viewDB.png)
+
+
+***
+# Note
+---
+###when you download this project you should change the folder name to "StudentInfomationApp"
