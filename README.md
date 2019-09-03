@@ -13,4 +13,4 @@
 ***
 # Note
 ---
-###when you download this project you should change the folder name to "StudentInfomationApp"
+### when you download this project you should change the folder name to "StudentInfomationApp"
